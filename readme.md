@@ -1,4 +1,4 @@
-
+[![ci](https://github.com/ahmad-azizi-dev/slot-machine/actions/workflows/ci.yml/badge.svg)](https://github.com/ahmad-azizi-dev/slot-machine/actions/workflows/ci.yml)
 
 # Slot Machine
 This is a very simple simulated slot machine.
